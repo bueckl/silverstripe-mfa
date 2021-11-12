@@ -71,7 +71,7 @@ if (typeof (ss) === 'undefined' || typeof (ss.i18n) === 'undefined') {
       "MFASelectMethod.UNAVAILABLE": "nicht verfügbar",
       "MFAVerify.OTHER_METHODS_TITLE": "Versuchen Sie es mit einer anderen Bestätigungsmethode",
       "MFARegister.TITLE": "Multi-Faktor-Authentifizierung",
-      "MFAVerify.MORE_OPTIONS": "More options",
+      "MFAVerify.MORE_OPTIONS": "Mehr Optionen",
       "MFAVerify.METHOD_UNAVAILABLE": "Diese Authentifizierungsmethode ist nicht verfügbar",
       "MFAVerify.TITLE": "Einloggen",
       "MFALogin.SOMETHING_WENT_WRONG": "Etwas ist schief gelaufen!",
