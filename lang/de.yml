@@ -12,7 +12,8 @@ de:
     NAME: 'Wiederherstellungscodes'
   SilverStripe\MFA\BackupCode\RegisterHandler:
     DESCRIPTION: 'Mit Wiederherstellungscodes können Sie sich bei Ihrem Konto anmelden, wenn Ihre primäre Authentifizierung nicht verfügbar ist. Jeder Code kann nur einmal verwendet werden. Bewahren Sie diese Codes an einem sicheren Ort auf, da sie nach Verlassen dieser Seite nicht mehr einsehbar sind.'
-    SUPPORT_LINK_DESCRIPTION: 'Erfahren Sie mehr über Wiederherstellungscodes.'
+    # SUPPORT_LINK_DESCRIPTION: 'Erfahren Sie mehr über Wiederherstellungscodes.'
+    SUPPORT_LINK_DESCRIPTION: ' '
   SilverStripe\MFA\BackupCode\VerifyHandler:
     INVALID_CODE: 'Ungültiger Code'
     MFAREMOVED: 'Ein Wiederherstellungscode wurde verwendet, um auf Ihr Konto zuzugreifen'
